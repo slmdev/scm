@@ -6,4 +6,4 @@ for every input bit scm creates a set of individual predictions which get mixed 
 
 models: ppm, match, record, indirect, sparse, word, sse
 
-using 500mb of memory scm compresses calgary.tar: 3.152.896 bytes to 625.583 bytes (1.587bpb).
+using ~1gb of memory scm compresses calgary.tar (14 files 3.152.896 bytes) to 622.290 bytes (1.579bpb).
